@@ -1,0 +1,16 @@
+2018-02-20 15:08:10,232 +0530 [main] INFO  (TC001_verifyLoginWithInvalidCredentials.java:31) - -----------------Starting verfiyLoginWithInvalidCredentials Test---------------
+2018-02-20 15:08:10,645 +0530 [main] INFO  (LoginPage.java:33) - Clicked on Account and object is:-[[FirefoxDriver: firefox on XP (c4a33281-fe8c-4f38-bc26-8e06fdb8605d)] -> xpath: /html/body/div/div/header/div/div[2]/div/a/span[2]]
+2018-02-20 15:08:11,301 +0530 [main] INFO  (LoginPage.java:35) - Clicked on Login and object is:-[[FirefoxDriver: firefox on XP (c4a33281-fe8c-4f38-bc26-8e06fdb8605d)] -> link text: Log In]
+2018-02-20 15:08:12,222 +0530 [main] INFO  (LoginPage.java:38) - Enter the email:-vijay@clickfdfapps.co and object is:-[[FirefoxDriver: firefox on XP (c4a33281-fe8c-4f38-bc26-8e06fdb8605d)] -> name: login[username]]
+2018-02-20 15:08:12,274 +0530 [main] INFO  (LoginPage.java:41) - Enter the Password:-vijay1 and object is:-[[FirefoxDriver: firefox on XP (c4a33281-fe8c-4f38-bc26-8e06fdb8605d)] -> name: login[password]]
+2018-02-20 15:08:13,142 +0530 [main] INFO  (LoginPage.java:43) - Click on the submit button and object is:-[[FirefoxDriver: firefox on XP (c4a33281-fe8c-4f38-bc26-8e06fdb8605d)] -> name: send]
+2018-02-20 15:08:13,182 +0530 [main] INFO  (TC001_verifyLoginWithInvalidCredentials.java:47) - -----------------Finished verfiyLoginWithInvalidCredentials Test---------------
+2018-02-20 15:08:13,755 +0530 [main] INFO  (TC001_verifyLoginWithInvalidCredentials.java:53) - -----------------Window  closed after Test---------------
+2018-02-20 15:11:42,476 +0530 [main] INFO  (TC001_verifyLoginWithInvalidCredentials.java:31) - -----------------Starting verfiyLoginWithInvalidCredentials Test---------------
+2018-02-20 15:11:42,779 +0530 [main] INFO  (LoginPage.java:33) - Clicked on Account and object is:-[[FirefoxDriver: firefox on XP (50ed67b7-483a-4dc6-b94f-5ece337ee699)] -> xpath: /html/body/div/div/header/div/div[2]/div/a/span[2]]
+2018-02-20 15:11:43,346 +0530 [main] INFO  (LoginPage.java:35) - Clicked on Login and object is:-[[FirefoxDriver: firefox on XP (50ed67b7-483a-4dc6-b94f-5ece337ee699)] -> link text: Log In]
+2018-02-20 15:11:43,424 +0530 [main] INFO  (LoginPage.java:38) - Enter the email:-vijay@clickfdfapps.co and object is:-[[FirefoxDriver: firefox on XP (50ed67b7-483a-4dc6-b94f-5ece337ee699)] -> name: login[username]]
+2018-02-20 15:11:43,477 +0530 [main] INFO  (LoginPage.java:41) - Enter the Password:-vijay1 and object is:-[[FirefoxDriver: firefox on XP (50ed67b7-483a-4dc6-b94f-5ece337ee699)] -> name: login[password]]
+2018-02-20 15:11:45,270 +0530 [main] INFO  (LoginPage.java:43) - Click on the submit button and object is:-[[FirefoxDriver: firefox on XP (50ed67b7-483a-4dc6-b94f-5ece337ee699)] -> name: send]
+2018-02-20 15:11:45,316 +0530 [main] INFO  (TC001_verifyLoginWithInvalidCredentials.java:47) - -----------------Finished verfiyLoginWithInvalidCredentials Test---------------
+2018-02-20 15:11:45,960 +0530 [main] INFO  (TC001_verifyLoginWithInvalidCredentials.java:53) - -----------------Window  closed after Test---------------

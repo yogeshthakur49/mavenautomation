@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]">
+  <listeners>
+    <listener class-name="com.test.automation.uiautomation.customelistener.Listener"/>
+  </listeners>
+  <test thread-count="5" name="TC001_verifyLoginWithInvalidCredentials(failed)">
+    <classes>
+      <class name="com.test.automation.uiautomation.loginpage.TC001_verifyLoginWithInvalidCredentials">
+        <methods>
+          <include name="endTest"/>
+          <include name="setup"/>
+          <include name="verfiyLoginWithInvalidCredentials"/>
+        </methods>
+      </class> <!-- com.test.automation.uiautomation.loginpage.TC001_verifyLoginWithInvalidCredentials -->
+    </classes>
+  </test> <!-- TC001_verifyLoginWithInvalidCredentials(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->
